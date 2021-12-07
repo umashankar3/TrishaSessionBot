@@ -28,7 +28,7 @@ By @JaiHindChatting
         [InlineKeyboardButton("🔥 𝗦𝘁𝗮𝗿𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 🔥", callback_data="generate")],
         [InlineKeyboardButton("🤔 𝗛𝗼𝘄 𝗧𝗼 𝗨𝘀𝗲 𝗠𝗲 🤔", callback_data="help")],
         [InlineKeyboardButton("♥ 𝗦𝗼𝘂𝗿𝗰𝗲 𝗔𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ♥", url="https://t.me/JaiHindChatting")],
-
+    ]
 
     # Help Message
     HELP = """
