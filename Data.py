@@ -8,26 +8,31 @@ class Data:
 
 Welcome to {}
 
-𝗬𝗼𝘂 𝗖𝗮𝗻 𝗨𝘀𝗲 𝗠𝗲 𝗧𝗼 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲 𝗣𝘆𝗿𝗼𝗴𝗿𝗮𝗺 𝗔𝗻𝗱 𝗧𝗲𝗹𝗲𝘁𝗵𝗼𝗻 𝗦𝘁𝗿𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻. 𝗨𝘀𝗲 𝗕𝗲𝗹𝗼𝘄 𝗕𝘂𝘁𝘁𝗼𝗻𝘀 𝗧𝗼 𝗟𝗲𝗮𝗿𝗻 𝗠𝗼𝗿𝗲 !
+༆ *SESSION STRENG* comes with many special features in it༆
 
-By @JaiHindChatting
+꧁check all button below to explore every commands of lovely꧂
+
+𖣘 All commands can either be used with / or !.
+
+𖣘 If you facing any issue or find any bugs in any command then you can report it in @STUDY_CHATING .
+By @shayari_jok !❤️
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔥 𝗦𝘁𝗮𝗿𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 🔥", callback_data="generate")],
+        [InlineKeyboardButton("🔥 GENERATE SISOSAN 🔥", callback_data="generate")],
         [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("🔥 𝗦𝘁𝗮𝗿𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 🔥", callback_data="generate")]
+        [InlineKeyboardButton("🔥 GENERATE SISOSAN 🔥", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🔥 𝗦𝘁𝗮𝗿𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 🔥", callback_data="generate")],
-        [InlineKeyboardButton("🤔 𝗛𝗼𝘄 𝗧𝗼 𝗨𝘀𝗲 𝗠𝗲 🤔", callback_data="help")],
-        [InlineKeyboardButton("♥ 𝗦𝗼𝘂𝗿𝗰𝗲 𝗔𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 ♥", url="https://t.me/JaiHindChatting")],
+        [InlineKeyboardButton("🔥 GENERATE SISOSAN 🔥", callback_data="generate")],
+        [InlineKeyboardButton("🤔  command 🤔", callback_data="help")],
+        [InlineKeyboardButton("♥ SPORTS GROUP ♥", url="https://t.me/shayari_jok")],
     ]
 
     # Help Message
@@ -39,4 +44,5 @@ By @JaiHindChatting
 /generate - Start Generating Session
 /cancel - Cancel the process
 /restart - Cancel the process
+@Umashankar31
 """
